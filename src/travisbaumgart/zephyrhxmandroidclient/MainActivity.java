@@ -79,7 +79,7 @@ public class MainActivity extends Activity {
 					.findViewById(R.id.left);
 			
 	        SVGImageView leftSvgImageView = new SVGImageView(rootView.getContext());
-	        leftSvgImageView.setImageAsset("red1.svg");
+	        leftSvgImageView.setImageAsset("red8.svg");
 	        leftLayout.addView(leftSvgImageView,
 	                       new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT));
 	        
